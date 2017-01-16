@@ -1,0 +1,5 @@
+{
+  "id": "raven",
+  "version": "1.0",
+  "main": "io.playpen.plugin.raven.RavenPlugin"
+}
